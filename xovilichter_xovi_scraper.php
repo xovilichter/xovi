@@ -9,7 +9,7 @@ function xovilichter_xovi_scraper(){
 	$ch = curl_init(); 
 	curl_setopt($ch, CURLOPT_URL, "http://www.xovi.de/xovilichter/"); 
 	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1); 
-	curl_setopt($ch, CURLOPT_USERAGENT, 'Xovilichter.Dynapso/1.0 (+https://github.com/xovilichter/xovi)');
+	curl_setopt($ch, CURLOPT_USERAGENT, 'Xovilichter.Xovi/1.1 (+https://github.com/xovilichter/xovi)');
 	curl_setopt($ch, CURLOPT_REFERER, 'https://github.com/xovilichter/xovi'); 
 	$output = curl_exec($ch);
 	curl_close($ch);
