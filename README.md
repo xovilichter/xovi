@@ -1,6 +1,6 @@
 # Xovilichter Xovi Scraper 1.1
 
-Ebenso wie der [Xovilichter Dynapso Scraper](https://github.com/xovilichter/dynapso) fragt die Xovi Version die aktuellen Rankings über die Xovi Website ab. Die Liste umfasst im Gegensatz zu Dynapso jedoch nur die ersten 25 Ergebnisse und enthält auch keine Universal Search Ergebnisse.
+Ebenso wie der [Xovilichter Dynapso Scraper](https://github.com/xovilichter/dynapso) fragt die Xovi Version die aktuellen [Keyword Monitoring](http://www.keywordmonitoring.de/) Rankings über die Xovi Website ab. Die Liste umfasst im Gegensatz zu Dynapso jedoch nur die ersten 25 Ergebnisse und enthält auch keine Universal Search Ergebnisse.
 
 ## Test
 
